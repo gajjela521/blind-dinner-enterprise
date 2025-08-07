@@ -51,7 +51,7 @@ src/
 
 ## 🌐 Live Demo
 
-**GitHub Pages**: https://yourusername.github.io/blind-dinner-enterprise
+**GitHub Pages**: https://gajjela521.github.io/blind-dinner-enterprise
 
 ## 🚀 Deployment
 
